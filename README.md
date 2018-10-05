@@ -6,7 +6,7 @@ Scale Independent Python: How to scale your Python application without any code 
 
 Have you ever written an application only to find yourself rewriting it later so it can scale? Many of us have. In this talk, you’ll learn scale independent computing; what it is and how it can help you more easily scale your applications.
 
-Scaling applications is hard. Our typical approaches all come with tradeoffs that we wish we didn’t have to make. There is a better way, scale-independent computing. Based on ideas from Pat Helland’s paper “Beyond Distributed Transactions,” scale-independent computing allows application developers to write their code without regard to scale and then run it on a scale-aware platform. The idea is relatively simple, the code you write should be able to run across any number of Python processes without you having to change any of your code. During this talk, you’ll learn the core ideas of scale-independence and see an example scale-independent application in action.
+Scaling applications is hard. Our typical approaches all come with tradeoffs that we wish we didn’t have to make. There is a better way, scale-independent computing. Based on ideas from Pat Helland’s paper “[Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?id=3025012),” scale-independent computing allows application developers to write their code without regard to scale and then run it on a scale-aware platform. The idea is relatively simple, the code you write should be able to run across any number of Python processes without you having to change any of your code. During this talk, you’ll learn the core ideas of scale-independence and see an example scale-independent application in action.
 
 ## Versions of this talk
 
