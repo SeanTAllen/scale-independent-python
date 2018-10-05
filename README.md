@@ -16,11 +16,14 @@ Scaling applications is hard. Our typical approaches all come with tradeoffs tha
 
 * [Pat Helland and Me: How to build stateful distributed applications that can scale almost infinitely](https://github.com/SeanTAllen/pat-helland-and-me)
 
+## Deeper dive into Scale Independent computing
+
+* [Wallaroo Scale-Independent Computing](https://vimeo.com/270509076)
+
 ## Links 
 
 * [Wallaroo](https://github.com/wallaroolabs/wallaroo)
 * [Wallaroo Labs' Twitter](https://twitter.com/wallaroolabs)
-* [Wallaroo Scale-Independent Computing](https://vimeo.com/270509076)
 * [My Twitter](https://twitter.com/seantallen)
 * [My Personal Website](https://www.monkeysnatchbanana.com/)
 * [Pat Helland's Twitter](https://twitter.com/pathelland)
