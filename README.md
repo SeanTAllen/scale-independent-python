@@ -12,6 +12,10 @@ Scaling applications is hard. Our typical approaches all come with tradeoffs tha
 
 * PyGotham 2018 - [Slides]()
 
+## Related Talk
+
+* [Pat Helland and Me: How to build stateful distributed applications that can scale almost infinitely](https://github.com/SeanTAllen/pat-helland-and-me)
+
 ## Links 
 
 * [Wallaroo](https://github.com/wallaroolabs/wallaroo)
