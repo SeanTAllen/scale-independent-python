@@ -10,7 +10,7 @@ Scaling applications is hard. Our typical approaches all come with tradeoffs tha
 
 ## Versions of this talk
 
-* PyGotham 2018 - [Slides]()
+* PyGotham 2018 - [Slides](https://speakerdeck.com/seantallen/scale-independent-python)
 
 ## Related Talk
 
